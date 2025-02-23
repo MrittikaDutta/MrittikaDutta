@@ -12,4 +12,4 @@ MrittikaDutta/MrittikaDutta is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![An image of @mrittikadutta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrittikadutta)](https://holopin.io/@mrittikadutta)
-![image](https://github.com/user-attachments/assets/34af4807-df59-4dc8-bf04-f1cfe7b9fedb)
+
