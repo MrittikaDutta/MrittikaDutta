@@ -5,7 +5,10 @@
 
 - 📫 How to reach me mrittika91cse@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I enjoy solving complex data puzzles and finding insights hidden in plain sight! 
+- ⚡ Fun fact: I enjoy solving complex data puzzles and finding insights hidden in plain sight!
+
+- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrittikadutta&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 MrittikaDutta/MrittikaDutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
