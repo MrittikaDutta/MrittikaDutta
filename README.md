@@ -13,6 +13,14 @@ You can click the Preview link to take a look at your changes.
 --->
 [![An image of @mrittikadutta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrittikadutta)](https://holopin.io/@mrittikadutta)
 ![Mrittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrittikaDutta&show_icons=true&theme=radical)
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrittikaDutta&layout=compact&theme=radical)  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrittikadutta)
 
