@@ -14,4 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![An image of @mrittikadutta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrittikadutta)](https://holopin.io/@mrittikadutta)
 ![Mrittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrittikaDutta&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrittikaDutta&layout=compact&theme=radical)
 
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MrittikaDutta&theme=radical)
