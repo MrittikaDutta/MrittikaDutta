@@ -43,7 +43,6 @@
 
 ---
 
-https://github-profile-trophy.vercel.app/?username=MrittikaDutta&column=-1
 
 <!---
 MrittikaDutta/MrittikaDutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
