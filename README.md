@@ -23,18 +23,15 @@
 
 ## 📊 GitHub Stats
 
-![Mrittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrittikaDutta&show_icons=true&theme=radical&count_private=true&hide_rank=false&include_all_commits=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrittikadutta)
+![Mrittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrittikaDutta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrittikaDutta&layout=compact&theme=radical).
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MrittikaDutta&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrittikaDutta&layout=compact&theme=radical)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MrittikaDutta&theme=radical&hide_border=true)
-
-
-
-[[![Visitor Badge](https://img.shields.io/badge/Visitors-🔎_MrittikaDutta-blueviolet?style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=mrittikadutta&style=flat-square
-)](https://visitor-badge.laobi.icu/badge?page_id=mrittikadutta)
 
 
 ---
