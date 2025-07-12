@@ -28,12 +28,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrittikaDutta&layout=compact&theme=radical)
 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=MrittikaDutta&theme=radical&hide_border=true)
 
 
 
-[![Visitor Badge](https://img.shields.io/badge/Visitors-🔎_MrittikaDutta-blueviolet?style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=mrittikadutta&style=flat-square
-)
+[[![Visitor Badge](https://img.shields.io/badge/Visitors-🔎_MrittikaDutta-blueviolet?style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=mrittikadutta&style=flat-square
+)](https://visitor-badge.laobi.icu/badge?page_id=mrittikadutta)
 
 
 ---
