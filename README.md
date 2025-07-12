@@ -27,7 +27,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrittikaDutta&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MrittikaDutta&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=MrittikaDutta&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mrittikadutta)
 
