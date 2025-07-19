@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Mrittika Dutta
 
 - I’m interested in **Machine Learning** and **Data Science**
--  Currently learning **Deep Learning** and **Full Stack Web Development**
--  Looking to collaborate on **AI/ML projects**, **data analysis**, and **predictive modeling research**
+- Currently learning **Deep Learning** and **Full Stack Web Development**
+- Looking to collaborate on **AI/ML projects**, **data analysis**, and **predictive modeling research**
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy solving complex data puzzles and uncovering insights hidden in plain sight!
+- Pronouns: She/Her
+- Fun fact: I enjoy solving complex data puzzles and uncovering insights hidden in plain sight!
 
 ---
 
@@ -23,16 +23,11 @@
 
 ## 📊 GitHub Stats
 
-![Mrittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrittikaDutta&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrittikaDutta&layout=compact&theme=radical).
+![Mrittika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrittikaDutta&show_icons=true&theme=radical&border_radius=15)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MrittikaDutta&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MrittikaDutta&theme=gruvbox_duo&border_radius=15)](https://git.io/streak-stats)
 
-
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrittikaDutta&layout=compact&theme=radical&border_radius=15).
 
 
 ---
