@@ -3,8 +3,6 @@
 - I’m interested in **Machine Learning** and **Data Science**
 - Currently learning **Deep Learning** and **Full Stack Web Development**
 - Looking to collaborate on **AI/ML projects**, **data analysis**, and **predictive modeling research**
-
-- Pronouns: She/Her
 - Fun fact: I enjoy solving complex data puzzles and uncovering insights hidden in plain sight!
 
 ---
